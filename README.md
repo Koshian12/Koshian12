@@ -1,11 +1,8 @@
-## Hi there 👋
-
 <!--
-## 📈 Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshian12&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Koshian12" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Koshian12&margin-w=5)](https://github.com/Koshian12/)
+  Futuristic GitHub Profile README – crafted with ✨ by ChatGPT
+  All placeholder values resolved for @Koshian12.
 -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4500&pause=1000&color=00F4FF&center=true&vCenter=true&width=900&height=70&lines=Hey+there%2C+I'm+@Koshian12" alt="Typing SVG"/>
+</h1>
